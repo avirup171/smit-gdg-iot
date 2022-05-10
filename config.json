@@ -1,0 +1,8 @@
+{
+  "host": "",
+  "options": {
+    "port": 1883,
+    "username": "",
+    "password": ""
+  }
+}
